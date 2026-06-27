@@ -48,7 +48,7 @@ termux-setup-storage
 pkg install python git -y
 
 # 4. Clone repository
-git clone https://github.com/aetherbyte7/spamotp
+https://github.com/him0x/otp
 cd spamotp
 
 # 5. Install dependencies

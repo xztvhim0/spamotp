@@ -48,7 +48,7 @@ termux-setup-storage
 pkg install python git -y
 
 # 4. Clone repository
-git clone https://github.com/him0x/otp
+git clone https://github.com/xztvhim0/spamotp
 
 cd otp
 
